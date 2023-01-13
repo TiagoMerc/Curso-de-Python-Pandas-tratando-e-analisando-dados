@@ -10,7 +10,14 @@
 
 ### Alguns prints:
 
+Jupyter
+![image](https://user-images.githubusercontent.com/71729281/212222644-c5fe2684-7938-45bc-8265-adc6a09d286c.png)
+
+
 **Sobre gráficos**
+
+![image](https://user-images.githubusercontent.com/71729281/212222848-7256d84c-a811-43f4-aa1a-eb60ec9f4b54.png)
+
 
 ![image](https://user-images.githubusercontent.com/71729281/212222211-ef0aae71-c125-4327-9bc8-fd55152fe961.png)
 
